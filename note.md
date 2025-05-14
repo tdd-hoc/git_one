@@ -16,3 +16,4 @@ Repository (Repo)
 + git merge ( ten branch) để tổng hợp các branch lại chung với nhau 
 + git branch -d ( tên branch ) để xoá một branch 
 thục ngữ conflict
++ git push để đẩy code lên github
