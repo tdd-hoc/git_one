@@ -17,3 +17,7 @@ Repository (Repo)
 + git branch -d ( tên branch ) để xoá một branch 
 thục ngữ conflict
 + git push để đẩy code lên github
++ git clone để lấy thư mục code từ github về máy local
++ git push -u origin (tên branch) để đẩy branch lên github
++ git fetch origin -> git checkout -b (tên branch) origin/(tên branch) để lấy branch từ github về local
++ git pull để kéo code từ github xuống từ github
