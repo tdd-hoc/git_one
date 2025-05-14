@@ -13,3 +13,5 @@ Repository (Repo)
 + git log --oneline để hiện ra một dòng của git log
 + git branch để hiện tât các cac branch
 + git checkout -b (tên) để tạo một branch mới
++ git merge ( ten branch) để tổng hợp các branch lại chung với nhau 
++ git branch -d ( tên branch ) để xoá một branch 
